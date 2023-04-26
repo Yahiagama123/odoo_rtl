@@ -1,0 +1,9 @@
+npm install -g less
+
+npm install -g less-plugin-clean-css
+
+npm install -g rtlcss
+
+npm install -g rtl-detect
+
+npm install -g postcss-ltr-rtl-detect
