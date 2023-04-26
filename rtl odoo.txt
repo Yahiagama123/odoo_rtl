@@ -7,3 +7,8 @@ npm install -g rtlcss
 npm install -g rtl-detect
 
 npm install -g postcss-ltr-rtl-detect
+
+
+file -------> C:\Users\10\AppData\Roaming\npm
+
+cmd ----> sysdm.cpl
